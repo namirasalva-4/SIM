@@ -1,0 +1,6 @@
+materi pertemuan sim 1
+- kontrak kuliah 
+- pendahuluan 
+materi pertemuan kedua 
+- praktik git 
+- koneksi data 
